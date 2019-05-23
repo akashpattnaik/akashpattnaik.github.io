@@ -429,3 +429,8 @@ img::-moz-selection {
 .bg-primary {
     background-color: yellowgreen;
 }
+
+input[type=text] {
+  background-color: #3CBC8D;
+  color: black;
+}
