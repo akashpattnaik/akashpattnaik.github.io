@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: midnightblue;
+    color: darkslategrey;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -96,7 +96,7 @@ header .header-content .header-content-inner p {
 
 .intro {
 	color: #fff;
-    background-color: midnightblue;
+    background-color: darkslategrey;
     padding: 70px 0;
     text-align: center;
 }
@@ -169,7 +169,7 @@ header .header-content .header-content-inner p {
 
 .page-footer .contact {
 	padding: 100px 0;
-	background-color: midnightblue;
+	background-color: darkslategrey;
 	color: #fff;
 	}
 
@@ -202,7 +202,7 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: midnightblue;
+    color: darkslategrey;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -217,12 +217,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: midnightblue;
+    color: darkslategrey;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: midnightblue!important;
+    color: darkslategrey!important;
     background-color: transparent;
 }
 
@@ -265,7 +265,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: midnightblue;
+        color: darkslategrey;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -280,7 +280,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: midnightblue;
+        color: darkslategrey;
     }
 }
 
@@ -338,9 +338,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: midnightblue;
+    border-color: darkslategrey;
     color: #fff;
-    background-color: midnightblue;
+    background-color: darkslategrey;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -381,12 +381,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: midnightblue;
-    background-color: midnightblue;
+    border-color: darkslategrey;
+    background-color: darkslategrey;
 }
 
 .btn-primary .badge {
-    color: midnightblue;
+    color: darkslategrey;
     background-color: #fff;
 }
 
@@ -423,9 +423,9 @@ img::-moz-selection {
 }
 
 .text-primary {
-    color: midnightblue;
+    color: darkslategrey;
 }
 
 .bg-primary {
-    background-color: midnightblue;
+    background-color: darkslategrey;
 }
